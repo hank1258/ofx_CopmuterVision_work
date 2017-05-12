@@ -1,0 +1,6 @@
+﻿  example.vcxproj -> C:\Users\liwei\Downloads\ofxKinect2-master\ofxKinect2-master\example\bin\example_debug.exe
+  example.vcxproj -> bin\example_debug.pdb (Full PDB)
+  
+  2017/05/02 15:54:34 ERROR 3 (0x00000003) Accessing Source Directory C:\Users\liwei\Downloads\export\vs\Win32\
+  The system cannot find the path specified.
+  
